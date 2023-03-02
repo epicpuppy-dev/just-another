@@ -1,0 +1,6 @@
+[submodule "tower-defense"]
+	path = tower-defense
+	url = https://github.com/epicpuppy-dev/just-another-tower-defense.git
+[submodule "platformer"]
+	path = platformer
+	url = https://github.com/epicpuppy-dev/just-another-platformer.git
